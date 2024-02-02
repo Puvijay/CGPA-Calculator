@@ -26,6 +26,5 @@ How to Use:
 Input your grades and corresponding credit hours.
 Select the calculation type (CGPA, SGPA, or GPA).
 Click the "Calculate" button to see your calculated result.
-Feel free to contribute to the project, report issues, or suggest improvements. Happy calculating!
 
-Feel free to customize this description according to the specific features and details of your CGPA Calculator project.
+Landing Page Module is completed and uploaded
