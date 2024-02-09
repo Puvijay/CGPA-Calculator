@@ -27,4 +27,4 @@ Input your grades and corresponding credit hours.
 Select the calculation type (CGPA, SGPA, or GPA).
 Click the "Calculate" button to see your calculated result.
 
-Landing Page Module is completed and uploaded
+Landing Page Module is completed and uploaded - (02/02/24)
